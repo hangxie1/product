@@ -1,0 +1,37 @@
+# .pairs - configuration for 'git pair'
+pairs:
+  # <initials>: <Firstname> <Lastname>[; <email-id>]
+  eg: Evan Gryska; Evan.Gryska
+  js: Justin Safford; Justin.Safford
+  jc: Jason Cokkinias; jason.cokkinias
+  de: Derek Ebeling; derek.ebeling
+  tc: Tim Carlson; timothy.carlson
+  jw: Jon Webb; jonathan.webb
+  ab: Andrew Brenycz; andrew.brenycz
+  am: Anteneh Masresha; anteneh.masresha
+  bc: Benjamin Chylla; benjamin.chylla
+  tp: Tej Patel; tej.patel
+  nw: Nathaniel White; nathaniel.white
+  jz: Justin Zacharski; justin.zacharski
+  rl: Ryan Lennon; ryan.lennon2
+  jd: Jaymin Dani; jaymin.dani
+  hk: Hiri Krishnan; hiridharakrishnan.sankaran
+  gs: Gurpreet Saini; gurpreet.saini
+  bd: Barbara Doring; Barbara.Doring
+  pr: Praba Ramasamy; prabavathi.ramasamy
+  hx: Hang Xie; hang.xie
+  wm: Wyatt MacRae; jwyatt.macrae
+  mr: Mahrukh Raheem; mahrukh.raheem
+  mar: Michael Racine; michael.racine
+  sn: Sadriddin Norkobilov; sadriddin.norkobilov
+  so: Sua Ok; sua.ok
+  rg: Rajaram Gurumurthi; rajaram.gurumurthi
+  rm: Rajkumar Madasu; rajkumar.madasu
+  sd: Srikar Dondeti; srikar.dondeti
+  hg: Harrison Genders; harrison.genders
+
+email:
+  prefix: pair
+  domain: CVSHealth.com
+  # no_solo_prefix: true
+global: true
