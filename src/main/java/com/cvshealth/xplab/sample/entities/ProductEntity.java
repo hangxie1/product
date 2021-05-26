@@ -15,6 +15,4 @@ import javax.persistence.Id;
 public class ProductEntity {
     @Id
     Long id;
-    String productName;
-    Double price;
 }
